@@ -1,5 +1,5 @@
 ## Trabalhoindividual1
-Trabalho individual 1 - Teoria:
+#Trabalho individual 1 - Teoria:
 1 - Defina POO
 
 Programação orientada a objetos, cmo o próprio nome diz se baseia no conceito de construçã ode objetos que podem conter dados, propriedades e metodos.
