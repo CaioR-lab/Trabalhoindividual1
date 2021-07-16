@@ -6,11 +6,11 @@ Programação orientada a objetos, como o próprio nome diz se baseia no conceit
 
 2 - Defina classe um template com as instruções para a criação de um objeto.
 
-Clase é um 
+Clase é um conjunto de propriedades de um objeto, podendo conter seus dados e metodos.
 
 3 - Defina metodo
 
-Conjunto de valores e instruções
+Conjunto de valores e instruções de uma classe.
 
 4 - defina Herança e dê exemplos
 
@@ -22,7 +22,7 @@ Composição ocorre quando um objeto é mais complexo, podendo possuir outros ob
 
 6 - O que é parametro e qual a diferença para um argumento?
 
-Parametros são
+Parametros são especificamente 
 
 7 - O que é sobrecarga de metodos?
 
