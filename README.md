@@ -48,7 +48,7 @@ São parametros que possuem indicação sobre o que são dentro de um objeto, po
 
 - 3 Crie uma classe Pessoa Fisica derivada de Pessoa e que contenha RG e CPF
 
- ![image](https://user-images.githubusercontent.com/84486963/125990500-0a3981b2-8797-4e60-993e-853b28605c10.png)
+![image](https://user-images.githubusercontent.com/84486963/125991329-8eb697fa-5bd1-41ff-b477-33cfd9ee056d.png)
 
 - 4 Crie uma classe Pessoa Juridica derivada de Pessoa e que contenha 
 
