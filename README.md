@@ -22,7 +22,7 @@ Composição ocorre quando um objeto é mais complexo, podendo possuir outros ob
 
 - 6 - O que é parametro e qual a diferença para um argumento?:
 
-Parametros são especificamente 
+Parametros são variaveis passadas para um objeto, não contendo especificações de tipo.  Argumentos especificamente o dado passado, tendo especificação de tipo.
 
 - 7 - O que é sobrecarga de metodos?:
 
