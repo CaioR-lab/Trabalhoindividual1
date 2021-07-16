@@ -38,6 +38,6 @@ São parametros que possuem indicação sobre o que são dentro de um objeto, po
 
 ## Trabalho individual 1 - Pratica:
 
-Projeto - Pratica
-Classes - Pratica.Models
+- Projeto - Pratica
+- Classes - Pratica.Models
 
