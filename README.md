@@ -44,7 +44,8 @@ São parametros que possuem indicação sobre o que são dentro de um objeto, po
 
 - 2 Crie uma classe Endereço com Rua, numero, complemento, bairro e cidade.
 
- ![image](https://user-images.githubusercontent.com/84486963/125990562-9e730568-3d79-4be5-b2c2-c9b8b8ddc415.png)
+![image](https://user-images.githubusercontent.com/84486963/125991527-959a0846-0907-4aab-9e76-adfa13b82148.png)
+
 
 - 3 Crie uma classe Pessoa Fisica derivada de Pessoa e que contenha RG e CPF
 
