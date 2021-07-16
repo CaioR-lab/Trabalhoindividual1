@@ -39,15 +39,19 @@ São parametros que possuem indicação sobre o que são dentro de um objeto, po
 ## Trabalho individual 1 - Pratica:
 
 - 1 Crie uma classe Pessoa com nome e data de nascimento
+
 ![image](https://user-images.githubusercontent.com/84486963/125990463-c50d5306-5f87-4eca-8c0c-d927b6e27cf0.png)
 
 - 2 Crie uma classe Endereço com Rua, numero, complemento, bairro e cidade.
+
  ![image](https://user-images.githubusercontent.com/84486963/125990562-9e730568-3d79-4be5-b2c2-c9b8b8ddc415.png)
 
 - 3 Crie uma classe Pessoa Fisica derivada de Pessoa e que contenha RG e CPF
+
  ![image](https://user-images.githubusercontent.com/84486963/125990500-0a3981b2-8797-4e60-993e-853b28605c10.png)
 
 - 4 Crie uma classe Pessoa Juridica derivada de Pessoa e que contenha 
+
 ![image](https://user-images.githubusercontent.com/84486963/125990534-6f472dcf-c6f0-4f16-bad5-69def8379037.png)
 
 - 5 Tanto PF e PJ devem conter endereço
