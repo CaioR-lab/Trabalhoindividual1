@@ -12,7 +12,7 @@ Clase é um conjunto de propriedades de um objeto, podendo conter seus dados e m
 
 Conjunto de valores e instruções de uma classe.
 
-- 4 - defina Herança e dê exemplos:
+- 4 - Defina Herança e dê exemplos:
 
 Herança ocorre quando classes são derivadas de outras classe, a classe base passa propriedades como heranca a classes derivadas.
 
