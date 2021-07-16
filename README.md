@@ -1,5 +1,5 @@
 ## Trabalhoindividual1
-Trabalho individual 1 - Teoria.
+Trabalho individual 1 - Teoria:
 1 - Defina POO
 
 Programação orientada a objetos, cmo o próprio nome diz se baseia no conceito de construçã ode objetos que podem conter dados, propriedades e metodos.
@@ -35,7 +35,7 @@ São parametros que tem um possuem um valor padrão dentro do objeto, podendo n�
 
 São parametros que possuem indicação sobre o que são dentro de um objeto, podendo ser passados em ordem diferentes, justamente pro serem nomeados.
 
-## Trabalho individual 1 - Pratica.
+## Trabalho individual 1 - Pratica:
 
 Projeto - Pratica
 Classes - Pratica.Models
