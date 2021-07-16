@@ -1,4 +1,4 @@
-# Trabalhoindividual1
+# Trabalhoindividual-1
 ## Trabalho individual 1 - Teoria:
 - 1 - Defina POO
 
