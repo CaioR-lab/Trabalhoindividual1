@@ -2,11 +2,12 @@
 ## Trabalho individual 1 - Teoria:
 1 - Defina POO
 
-Programação orientada a objetos, cmo o próprio nome diz se baseia no conceito de construçã ode objetos que podem conter dados, propriedades e metodos.
+Programação orientada a objetos, como o próprio nome diz se baseia no conceito de construção de objetos que podem conter dados, propriedades e metodos podendo receber isntruções.
 
-2 - Defina classe
+2 - Defina classe um template com as instruções para a criação de um objeto.
 
 Clase é um 
+
 3 - Defina metodo
 
 Conjunto de valores e instruções
@@ -21,11 +22,11 @@ Composição ocorre quando um objeto é mais complexo, podendo possuir outros ob
 
 6 - O que é parametro e qual a diferença para um argumento?
 
-Parametros 
+Parametros são
 
 7 - O que é sobrecarga de metodos?
 
-
+Metodos que possuem os mesmos nomes, porém com parametros individuais diferentes.
 
 8 - O que são parametro opcionais?
 
